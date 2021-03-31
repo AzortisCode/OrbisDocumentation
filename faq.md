@@ -1,5 +1,5 @@
 ---
-description: Why is the FAQ empty?
+description: Frequently Asked Questions. Make suggestions on Discord
 ---
 
 # FAQ
