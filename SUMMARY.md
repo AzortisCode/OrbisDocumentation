@@ -5,6 +5,3 @@
 
 ## Documentation
 
-* [Untitled](documentation/untitled/README.md)
-  * [Getting started](documentation/untitled/getting-started.md)
-
