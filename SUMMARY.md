@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Orbis](README.md)
+* [FAQ](faq.md)
 
-## Test
+## Documentation
 
-* [Untitled](test/untitled/README.md)
-  * [Getting started](test/untitled/getting-started.md)
+* [Untitled](documentation/untitled/README.md)
+  * [Getting started](documentation/untitled/getting-started.md)
 
