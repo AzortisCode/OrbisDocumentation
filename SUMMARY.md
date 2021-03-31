@@ -3,7 +3,7 @@
 * [Orbis](README.md)
 * [FAQ](faq.md)
 
-## Documentation
+## Links
 
 ---
 
