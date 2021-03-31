@@ -5,9 +5,7 @@
 
 ## Links
 
----
-
-* [Discord Support](https://discord.com/invite/dCKkwnH)
-* [Spigot Page](https://www.spigotmc.org/threads/orbis-dimension-engine.493384/)
 * [GitHub](https://github.com/AzortisCode/Orbis)
+* [Spigot Page](https://www.spigotmc.org/threads/orbis-dimension-engine.493384/)
+* [Discord Support](https://discord.com/invite/dCKkwnH)
 
