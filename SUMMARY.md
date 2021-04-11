@@ -9,8 +9,3 @@
 * [Spigot Page](https://www.spigotmc.org/threads/orbis-dimension-engine.493384/)
 * [Discord Support](https://discord.com/invite/dCKkwnH)
 
-## Test123
-
-* [Test123p](test123/test123p/README.md)
-  * [Test1234p](test123/test123p/test1234p.md)
-
