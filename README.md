@@ -6,7 +6,7 @@ description: Welcome to the official Orbis wiki!
 
 ## What is Orbis?
 
-A plugin
+A [plugin](https://google.com)
 
 Maybe shiiii
 
