@@ -2,6 +2,7 @@
 
 * [Orbis](README.md)
 * [FAQ](faq.md)
+* [Commands](commands.md)
 
 ## Links
 
