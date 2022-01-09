@@ -16,7 +16,7 @@ worlds:
     generator: Orbis:alphatest
 ```
 
-**Step 3** Put [this jar](https://cdn.discordapp.com/attachments/803207168445644822/929552964299931739/Orbis-v0\_2-alpha.jar) in your `*/plugins/` folder. Then manually create the folder and `*/plugins/Orbis/packs/` . Then, put [this pack](https://cdn.discordapp.com/attachments/803207168445644822/929557399109533696/alphatest.orbis) into the packs folder (it is a zipped `.orbis` file with JSON files in it).
+**Step 3** Put [this jar](https://cdn.discordapp.com/attachments/803207168445644822/929569108167643146/Orbis.jar) in your `*/plugins/` folder. Then manually create the folder and `*/plugins/Orbis/packs/` . Then, put [this pack](https://cdn.discordapp.com/attachments/803207168445644822/929569108884881438/alphatest.orbis) into the packs folder (it is a zipped `.orbis` file with JSON files in it).
 
 {% hint style="info" %}
 Do not unzip the `.orbis`pack file
